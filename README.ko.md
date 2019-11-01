@@ -26,8 +26,8 @@ kylee1112@hotmail.com
 
 ## 사이드 프로젝트
   - UDC 2019 블로체인 해커톤 : 마이워크체인 (블록체인기반 리워드형 근무기록 관리 시스템)
-  - [Quizeey](http://quizeey.com), 시험 기출문제 문제은행
-  - [Planet Hackathon 2018](https://sites.google.com/view/planethackathon)  : OOOPS (음식물 쓰레기 배출정보 비교/분석)
+  - [Quizeey](http://quizeey.com), 시험 기출문제 문제은행 *[Githup](https://github.com/keunyop/quizeey)*
+  - [Planet Hackathon 2018](https://sites.google.com/view/planethackathon)  : OOOPS (음식물 쓰레기 배출정보 비교/분석) *[Githup](https://github.com/DoonDoony/ooops)*
   - Startup Weekend 2012 : 캠퍼스핼퍼
 
 
