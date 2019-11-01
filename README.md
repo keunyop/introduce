@@ -1,11 +1,19 @@
+*Read this in other languages: [English](README.md), [한국어](README.ko.md)*
+
 # Introduction
 
-*Read this in other languages: [English](README.md), [한국어](README.ko.md)*
+Kevin Lee
+
+kylee1112@hotmail.com
+
+Fintech SW Java Backend Developer @ [Bankware Global](http://www.bankwareglobal.com) Fintech Lab
+
+---
 
 ## Career
 
 ### Developing fintech software for finance institutions @ [Bankware Global](http://www.bankwareglobal.com) Fintech Lab
-  - [BX-PF](http://bankwareglobal.com/wp/en/pf-new/) (Product Factory), product information management solution 
+  - [BX-PF](http://bankwareglobal.com/wp/en/pf-new/) (Product Factory), product information and life-cycle management solution 
   - [CBP](http://bankwareglobal.com/wp/en/cbp-new/) (Core Banking Package), developing product, calculation and benefit apply module.
 
 
