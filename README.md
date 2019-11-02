@@ -32,5 +32,7 @@ Fintech SW Java Backend Developer @ [Bankware Global](http://www.bankwareglobal.
 
 
 ## Participation
+  - Founded Bankware Developer Group community
   - Lightning Talk @ [[Developer Conference] Wise Development Life : Developer Culture Enhancement](https://event-us.kr/ted/event/9635)
-  - Founded and leading BDG (Bankware Developer Group) community
+  - 2018 Silicon Valley Global Innovation Software Engineer Training Program @ San Jose State University
+  
