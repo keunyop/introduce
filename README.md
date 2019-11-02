@@ -4,9 +4,11 @@
 
 Kevin Lee
 
-kylee1112@hotmail.com
-
 Fintech SW Java Backend Developer @ [Bankware Global](http://www.bankwareglobal.com) Fintech Lab
+
+Email : kylee1112@hotmail.com
+
+Githup : https://github.com/keunyop
 
 ---
 

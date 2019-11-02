@@ -4,9 +4,11 @@
 
 이근엽
 
-kylee1112@hotmail.com
-
 금융 소프트웨어 자바 백엔드 개발자 @ [뱅크웨어글로벌](http://www.bankwareglobal.com) 금융SW연구소
+
+Email : kylee1112@hotmail.com
+
+Githup : https://github.com/keunyop
 
 ---
 
