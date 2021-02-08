@@ -28,6 +28,7 @@ Fintech SW Java Backend Developer @ [Bankware Global](http://www.bankwareglobal.
 
 
 ## Side Projects
+  - [Discus2](https://try.discus2.com), forum hosting service
   - UDC 2019 Blockchain Hackathon : MyWorkChain (Blockchain based work record management and reword system)
   - [Quizeey](http://quizeey.com), pool of questions *[Githup](https://github.com/keunyop/quizeey)*
   - [Planet Hackathon 2018](https://sites.google.com/view/planethackathon)  : OOOPS (Food waste emission information compariosn and analysis) *[Githup](https://github.com/DoonDoony/ooops)*
