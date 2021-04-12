@@ -9,7 +9,6 @@
 - Email : kylee1112@hotmail.com
 - Githup : https://github.com/keunyop
 - LinkedIn : https://www.linkedin.com/in/keunyoplee-08a011165/
-- Blog : https://samurae83.blog.me/
 
 ---
 
