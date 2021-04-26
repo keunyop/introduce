@@ -40,3 +40,5 @@
   - 라이트닝 토크 @ [[개발자 컨퍼런스] 슬기로운 개발생활 : 개발자 문화 개선기](https://event-us.kr/ted/event/9635)
   - 2018 실리콘밸리 Global Innovation Software Engineer Training Program @ 산호새주립대
   
+## 오픈소스 Contribution
+  - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) 프로젝트에 전략(Strategy) 패턴 추가 ([pull request](https://github.com/iluwatar/java-design-patterns/pull/1708))
