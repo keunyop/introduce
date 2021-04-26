@@ -40,3 +40,5 @@ Fintech SW Java Backend Developer @ [Bankware Global](http://www.bankwareglobal.
   - Lightning Talk @ [[Developer Conference] Wise Development Life : Developer Culture Enhancement](https://event-us.kr/ted/event/9635)
   - 2018 Silicon Valley Global Innovation Software Engineer Training Program @ San Jose State University
   
+## Contribution
+  - [Pull requestted](https://github.com/iluwatar/java-design-patterns/pull/1708) strategy pattern to [java-design-patterns](https://github.com/iluwatar/java-design-patterns) project
