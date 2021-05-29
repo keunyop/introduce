@@ -42,3 +42,5 @@
   
 ## 오픈소스 Contribution
   - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) 프로젝트에 전략(Strategy) 패턴 추가 ([pull request](https://github.com/iluwatar/java-design-patterns/pull/1708))
+
+## 자격증
