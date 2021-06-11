@@ -36,6 +36,7 @@
 
 
 ## 참여 활동
+  - 뱅크웨어 BX살롱 특강 - 코드 리뷰 강의
   - 뱅크웨어 개발자 모임 (BDG, Bankware Developer Group) 운영
   - 라이트닝 토크 @ [[개발자 컨퍼런스] 슬기로운 개발생활 : 개발자 문화 개선기](https://event-us.kr/ted/event/9635)
   - 2018 실리콘밸리 Global Innovation Software Engineer Training Program @ 산호새주립대
