@@ -45,4 +45,4 @@ Fintech SW Java Backend Developer @ [Bankware Global](http://www.bankwareglobal.
   - [Pull requested](https://github.com/iluwatar/java-design-patterns/pull/1708) strategy pattern to [java-design-patterns](https://github.com/iluwatar/java-design-patterns) project
 
 ## Certification
-  - CBP(Core Banking Package) Certificate - Bankware Global
+  - CBP(Core Banking Package) Developer - Bankware Global
