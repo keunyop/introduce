@@ -46,3 +46,4 @@
 
 ## 자격증
   - CBP(Core Banking Package) 개발자 - 뱅크웨어글로벌
+  - AWS 공인 개발자 – 어소시에이트
