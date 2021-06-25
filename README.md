@@ -47,3 +47,4 @@ Fintech SW Java Backend Developer @ [Bankware Global](http://www.bankwareglobal.
 ## Certification
   - CBP(Core Banking Package) Developer - Bankware Global
   - AWS Certified Developer - Associate (DVA)
+  - Engineer Information Processing - Ministry of Science and Technology
