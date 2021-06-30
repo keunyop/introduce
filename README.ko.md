@@ -48,3 +48,4 @@
   - CBP(Core Banking Package) 개발자 - 뱅크웨어글로벌
   - AWS 공인 개발자 – 어소시에이트
   - 정보처리기사 - 과학기술정보통신부
+  - SW 테스팅 국제 자격 - ISTQB
