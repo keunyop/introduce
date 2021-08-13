@@ -20,6 +20,7 @@ Fintech SW Java Backend Developer @ [Bankware Global](http://www.bankwareglobal.
 
 
 ### Projects with Client
+  - OK Savings Bank next generation project
   - LINE Bank's product information management system
   - KBank, 1st internet bank in Korea
   - MyBank's product information management system
