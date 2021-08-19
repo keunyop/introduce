@@ -14,7 +14,7 @@ Core Banking Fintech SW Backend Developer @ [Bankware Global](http://www.bankwar
 
 ## Career
 
-### Developing fintech software for finance institutions @ [Bankware Global](http://www.bankwareglobal.com) Fintech Lab
+### Developing corebanking fintech software for finance institutions @ [Bankware Global](http://www.bankwareglobal.com) Fintech Lab
   - [BX-PF](http://bankwareglobal.com/wp/en/pf-new/) (Product Factory), product information and life-cycle management solution 
   - [CBP](http://bankwareglobal.com/wp/en/cbp-new/) (Core Banking Package), developing product, calculation and benefit apply module.
 
