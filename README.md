@@ -8,7 +8,7 @@ Core Banking Fintech SW Backend Developer @ [Bankware Global](http://www.bankwar
 
 - Email : kylee1112@hotmail.com
 - Githup : https://github.com/keunyop
-- LinkedIn : https://www.linkedin.com/in/keunyoplee-08a011165/
+- LinkedIn : www.linkedin.com/in/kevin-keunyop-lee
 
 ---
 
