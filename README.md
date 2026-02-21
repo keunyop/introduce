@@ -19,7 +19,7 @@ Core Banking Fintech SW Backend Developer @ [Bankware Global](http://www.bankwar
   - [CBP](http://bankwareglobal.com/wp/en/cbp-new/) (Core Banking Package), developing product, calculation and benefit apply module.
 
 
-### Projects with Client
+### Projects with Clients
   - OK Savings Bank next generation project
   - LINE Bank's product information management system
   - KBank, 1st internet bank in Korea
