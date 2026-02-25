@@ -49,4 +49,4 @@ Core Banking Fintech SW Backend Developer @ [Bankware Global](http://www.bankwar
   - CBP(Core Banking Package) Developer - Bankware Global
   - AWS Certified Developer - Associate (DVA)
   - Engineer Information Processing - Ministry of Science and Technology
-  - Foundation Certificate in Software Testing - ISTQB
+  - Foundation Certificate in Software Testing - ISTQB 
