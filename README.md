@@ -4,7 +4,7 @@
 
 Kevin Lee
 
-Core Banking Fintech SW Backend Developer @ [Bankware Global](http://www.bankwareglobal.com) Fintech Lab
+Core Banking FinTech Software Developer (13+ yrs) | AI-Driven Product Builder | Business Technology Management
 
 - Email : kylee1112@hotmail.com
 - Githup : https://github.com/keunyop
