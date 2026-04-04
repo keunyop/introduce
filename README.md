@@ -45,7 +45,7 @@ Core Banking FinTech Software Developer (13+ yrs) | AI-Driven Product Builder | 
 ## Contribution
   - [Pull requested](https://github.com/iluwatar/java-design-patterns/pull/1708) strategy pattern to [java-design-patterns](https://github.com/iluwatar/java-design-patterns) project
 
-## Certification
+## Certifications
   - CBP(Core Banking Package) Developer - Bankware Global
   - AWS Certified Developer - Associate (DVA)
   - Engineer Information Processing - Ministry of Science and Technology
