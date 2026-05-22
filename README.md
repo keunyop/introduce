@@ -49,4 +49,4 @@ Core Banking FinTech Software Developer (13+ yrs) | AI-Driven Product Builder | 
   - CBP(Core Banking Package) Developer - Bankware Global
   - AWS Certified Developer - Associate (DVA)
   - Engineer Information Processing - Ministry of Science and Technology
-  - Foundation Certificate in Software Testing - ISTQB 
+  - Foundation Certificate in Software Testing - ISTQB.
