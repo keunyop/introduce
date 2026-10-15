@@ -43,7 +43,7 @@ Core Banking FinTech Software Developer (13+ yrs) | AI-Driven Product Builder | 
   - 2018 Silicon Valley Global Innovation Software Engineer Training Program @ San Jose State University
   
 ## Contribution
-  - [Pull requested](https://github.com/iluwatar/java-design-patterns/pull/1708) strategy pattern to [java-design-patterns](https://github.com/iluwatar/java-design-patterns) project
+  - [Pull requested](https://github.com/iluwatar/java-design-patterns/pull/1708) strategy pattern to [java-design-patterns](https://github.com/iluwatar/java-design-patterns) project.
 
 ## Certifications
   - CBP(Core Banking Package) Developer - Bankware Global
